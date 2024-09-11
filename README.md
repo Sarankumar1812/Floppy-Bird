@@ -15,7 +15,7 @@ Floppy Bird is a simple 2D game inspired by the famous mobile game Flappy Bird. 
 
 ## Demo
 
-You can play the game by visiting [Netlify Demo Link] or [GitHub Pages Demo Link].
+You can play the game by visiting [[ Demo Link](https://floppy-bird-x6wxrf1ou-sarankumar1812s-projects.vercel.app/)] 
 
 ## Features
 
